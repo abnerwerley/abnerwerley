@@ -1,9 +1,7 @@
 ### Olá, eu sou o Abner Werley 
 
-- 🔭 Quero trabalhar com back-end
+- 🔭 Back-end❤
 - 🌱 Estudando Java
-- 💬 Ask me about ...
-- 📫 Contate-me pelo LinkedIn: linkedin.com/in/abnerwerleysilva/
 - 
 <div align="center">
   <a href="https://github.com/abnerwerley">
