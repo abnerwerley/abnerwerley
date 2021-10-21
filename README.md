@@ -1,7 +1,7 @@
 # Olá, eu sou o Abner Werley!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerwerley&show_icons=true&theme=calm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwerley&layout=compact&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerwerley&show_icons=true&theme=outrun ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwerley&layout=compact&theme=outrun )
 
 <div style="display: inline_block">
 
