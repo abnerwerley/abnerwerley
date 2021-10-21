@@ -19,5 +19,5 @@
 
 <hr>
 
-[<img src="https://img.shields.io/badge/youtube-%23E60023.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCnATHGHftSGHbhn6uF8dEUA)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_abner.werley/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abnerwerleysilva/) [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:docencia.abnerwerley77@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_abner.werley/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abnerwerleysilva/) [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:docencia.abnerwerley77@gmail.com)
 
