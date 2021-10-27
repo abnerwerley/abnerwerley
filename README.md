@@ -1,4 +1,4 @@
-# Olá, eu sou o Abner Werley!
+# Olá, eu sou o Abner Werley, seja bem vindo(a)!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerwerley&show_icons=true&theme=outrun ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwerley&layout=compact&theme=outrun )
