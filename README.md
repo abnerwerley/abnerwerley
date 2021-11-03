@@ -23,7 +23,7 @@
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abnerwerley77@gmail.com)
     
 
-<!--  ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abnerwerley/count.svg" />
- </p> -->
+ </p> 
