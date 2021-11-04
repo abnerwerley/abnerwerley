@@ -22,9 +22,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />](https://www.linkedin.com/in/abnerwerleysilva/) 
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abnerwerley77@gmail.com)
     
-<!-- 
+
  ##Visitas ao perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abnerwerley/count.svg" />
  </p> 
- -->
+ 
