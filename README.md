@@ -1,5 +1,5 @@
-# Olá, eu sou o Abner Werley, seja bem vindo(a)!
-Desenvolvedor Back-end na FireDev-It!
+# Hey, I'm Abner Werley, be welcome to my profile!
+Backend developer👨🏾‍💻
 
 
 <div>
